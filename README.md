@@ -20,5 +20,7 @@ If the game is updated you can simply copy the Address, Expected and Target valu
 
 # Patch for 1.87.40.1030
 > Address = 0x140C8083D
+> 
 > Expected = 0xE081C71774
+> 
 > Target = 0xE081C717EB
