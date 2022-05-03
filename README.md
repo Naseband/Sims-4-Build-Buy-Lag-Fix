@@ -12,10 +12,10 @@ https://github.com/ThirteenAG/Ultimate-ASI-Loader/
 Go to releases and download the x64 version of the ASI loader.
 Next, download the release of this plugin.
 
-- Extract dinput8.dll (the ASI loader) into **Sims 4 root directory\Game\Bin\** and rename it to **version.dll**.
-- Extract the contents of **BBLagFix.zip** into the same directory. You can also build the plugin yourself, but you'll need the ini files (both version.ini and BBLagFix.ini).
+- Extract dinput8.dll (the ASI loader) into *Sims 4 root directory\Game\Bin\* and rename it to *version.dll*.
+- Extract the contents of *BBLagFix.zip* into the same directory. You can also build the plugin yourself, but you'll need the ini files (both version.ini and BBLagFix.ini).
 
-Inside the scripts directory you will find **BBLagFix.ini**, which is used to configure the plugin.
+Inside the scripts directory you will find *BBLagFix.ini*, which is used to configure the plugin.
 If the game is updated you can simply copy the Address, Expected and Target values in the Patch section to make the plugin compatible with the new game version, or just redownload it. It will most likely not be neccessary to update the ASI itself.
 
 # Patch for 1.87.40.1030
